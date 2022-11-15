@@ -143,7 +143,6 @@ void DeletebuKey(HashTable** pHashTable, int key){
 }
 ```
 
-
 # 关于其他函数使用：
 ```
 HASH_ADD_INT    表示添加的键的值为int类型
@@ -151,7 +150,7 @@ HASH_ADD_STR    表示添加的键的值为字符串类型
 HASH_ADD_PTR    表示添加的键的值为指针类型
 HASH_ADD        表示添加的键的值可以是任意类型
 ```
-这里以int类型作为举例。
+本文仅仅以int类型作为举例。
 
 ## 参考链接：
 1. github下载链接：https://github.com/troydhanson/uthash
