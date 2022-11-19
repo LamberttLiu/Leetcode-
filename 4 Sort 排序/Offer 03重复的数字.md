@@ -12,6 +12,8 @@
 输出：2 或 3
 ```
 # 解题思路
+
+# 程序实现
 ```c
 int cmp(const void *a,const void *b){
     return (*(int*)a - *(int*)b);
