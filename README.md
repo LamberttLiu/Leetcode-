@@ -12,7 +12,7 @@
 
 ## 3. DoublePointer 双指针法
 - [Offer 03重复的数字](https://github.com/LamberttLiu/Leetcode-Training/blob/main/3%20DoublePointer%20%E5%8F%8C%E6%8C%87%E9%92%88%E6%B3%95/Offer%2003%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.md)
-- [LC 26 删除有序数组中的重复项](https://github.com/LamberttLiu/Leetcode-Training/blob/main/3%20DoublePointer%20%E5%8F%8C%E6%8C%87%E9%92%88%E6%B3%95/LC%2026%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md)
+- [LeetCode 26 删除有序数组中的重复项](https://github.com/LamberttLiu/Leetcode-Training/blob/main/3%20DoublePointer%20%E5%8F%8C%E6%8C%87%E9%92%88%E6%B3%95/LC%2026%20%E5%88%A0%E9%99%A4%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md)
 
 
 ## 4. Linklist 链表
