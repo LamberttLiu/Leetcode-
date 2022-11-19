@@ -33,7 +33,7 @@ int countSpace(char *s){
     }
     return count;
 }
-// 动态申请内存，快慢指针填充值
+// 动态申请内存，快慢指针填充值，在调用上游需要free()
 char* replaceSpace(char* s){
     int len = strlen(s);
     int newLen = len + countSpace(s) * 2;
