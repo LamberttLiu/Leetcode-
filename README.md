@@ -1,6 +1,10 @@
 # Leetcode-Training
-记录Leetcode 刷题全过程
-按照方法和模块对应刷题，为使过程分析清楚，本人使用C语言。
+记录本人 Leetcode 刷题全过程
+按照方法和模块对应刷题。
+
+个人简介：
+本硕专业建筑，感叹行业大发展对个人十分受限，狠下决心转行CS，虽然八年本硕的专业学习对现行的工作并没有帮助，单迫于专业的就业限制和现如今的没落，只能忍受沉没成本从头开始。
+由于个人技术栈尚未成熟，使用的语言只会C，因此本CodeRepo的刷题语言为C语言。
 
 ## 1. Hash 哈希散列
 - [LeetCode 001 两数之和](https://github.com/LamberttLiu/Leetcode-Training/blob/main/1%20Hash%20%E5%93%88%E5%B8%8C%E6%95%A3%E5%88%97/LC001%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
