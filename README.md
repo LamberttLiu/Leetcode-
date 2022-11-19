@@ -8,10 +8,12 @@
 - [LeetCode 303 赎金信](https://github.com/LamberttLiu/Leetcode-Training/blob/main/1%20Hash%20%E5%93%88%E5%B8%8C%E6%95%A3%E5%88%97/LC303%20%E8%B5%8E%E9%87%91%E4%BF%A1.md)
 
 ## 2. String 字符串
-- [剑指Offer 05 替换空格]
+- [剑指Offer 05 替换空格](https://github.com/LamberttLiu/Leetcode-Training/blob/main/2%20String%20%E5%AD%97%E7%AC%A6%E4%B8%B2/Offer%2005%20%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md)
 
+## 3. DoublePointer 双指针法
+- [Offer 03重复的数字](https://github.com/LamberttLiu/Leetcode-Training/blob/main/3%20DoublePointer%20%E5%8F%8C%E6%8C%87%E9%92%88%E6%B3%95/Offer%2003%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.md)
 
-## 3. Linklist 链表
+## 4. Linklist 链表
 
-## 4. Sort 排序
-- [剑指 Offer 03. 数组中重复的数字]
+## 6. Sort 排序
+
