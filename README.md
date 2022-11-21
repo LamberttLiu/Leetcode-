@@ -21,7 +21,8 @@
 ## 4. Linklist 链表
 - [剑指Offer 06链表逆置](04%20LinkList%20链表/链表逆置.md)
 
-
+## 5. bitwise 数学位运算
+- [LeetCode136 出现1次的数字](05%20bitwise%20数学位运算/LC%20136%20只出现1次的数字.md)
 ## 6. Sort 排序
 
 ## 10. Greedy 贪心
