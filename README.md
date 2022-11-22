@@ -15,11 +15,11 @@
 - [剑指Offer 05 替换空格](02%20String%20字符串/Offer%2005%20替换空格.md)
 
 ## 3. DoublePointer 双指针法
-- [剑指Offer 03重复的数字](03%20DoublePointer%20双指针法/Offer%2003重复的数字.md)
+- [剑指Offer 03 重复的数字](03%20DoublePointer%20双指针法/Offer%2003重复的数字.md)
 - [LeetCode 26 删除有序数组中的重复项](03%20DoublePointer%20双指针法/LC%2026%20删除有序数组中的重复项.md)
 
 ## 4. Linklist 链表
-- [剑指Offer 06链表逆置](04%20LinkList%20链表/链表逆置.md)
+- [剑指Offer 06 链表逆置](04%20LinkList%20链表/链表逆置.md)
 
 ## 5. bitwise 数学位运算
 - [LeetCode136 出现1次的数字](05%20bitwise%20数学位运算/LC%20136%20只出现1次的数字.md)
